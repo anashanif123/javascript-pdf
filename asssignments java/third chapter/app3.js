@@ -5,12 +5,8 @@ var age ='i am 15 years old '
 alert(age)
 
 // ques no 2)
-// var visit = 'you have visite this website  times'+'15';
-// alert(visit)
-// visit=visit+1
-// alert(visit)
-// visit=visit+ 1
-// console.log(visit)
+var visit = 'you have visite this website' + 15 + 'times';
+console.log(visit)
  
 // ques no 3)
 var brithyear =2004
